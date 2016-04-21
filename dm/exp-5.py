@@ -22,6 +22,9 @@ def initDate():
     
 if __name__=='__main__':
     dataSets,features=initDate()
+    clfSet=[]
+    clfSet.append(svm.LinearSVC())
+    clfSet.append(DecisionTreeClassifier(max_depth=4))
     clf = svm.LinearSVC()
     svmResult=clf.fit(dataSets,features)
     print clf.predict(dataSets[0])
