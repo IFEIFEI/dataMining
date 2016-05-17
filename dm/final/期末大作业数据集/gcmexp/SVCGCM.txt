@@ -1,0 +1,367 @@
+
+
+1606
+Best accuracy and recall is 0.586957	0.586957
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+3212
+Best accuracy and recall is 0.586957	0.586957
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+4818
+Best accuracy and recall is 0.630435	0.630435
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+6425
+Best accuracy and recall is 0.652174	0.652174
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+8031
+Best accuracy and recall is 0.630435	0.630435
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+9637
+Best accuracy and recall is 0.630435	0.630435
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+11244
+Best accuracy and recall is 0.586957	0.586957
+Best paramters is SVC(C=2.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='rbf', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+12850
+Best accuracy and recall is 0.586957	0.586957
+Best paramters is SVC(C=2.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='rbf', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+14456
+Best accuracy and recall is 0.586957	0.586957
+Best paramters is SVC(C=3.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='rbf', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+16063
+Best accuracy and recall is 0.586957	0.586957
+Best paramters is SVC(C=3.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='rbf', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+6425
+Best accuracy and recall is 0.652174	0.652174
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+1606
+Best accuracy and recall is 0.586957	0.586957
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+3212
+Best accuracy and recall is 0.586957	0.586957
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+4818
+Best accuracy and recall is 0.630435	0.630435
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+6425
+Best accuracy and recall is 0.652174	0.652174
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+8031
+Best accuracy and recall is 0.630435	0.630435
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+9637
+Best accuracy and recall is 0.630435	0.630435
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+11244
+Best accuracy and recall is 0.586957	0.586957
+Best paramters is SVC(C=2.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='rbf', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+12850
+Best accuracy and recall is 0.586957	0.586957
+Best paramters is SVC(C=2.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='rbf', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+14456
+Best accuracy and recall is 0.586957	0.586957
+Best paramters is SVC(C=3.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='rbf', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+16063
+Best accuracy and recall is 0.586957	0.586957
+Best paramters is SVC(C=3.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='rbf', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+1606
+Best accuracy and recall is 0.586957	0.586957
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+3212
+Best accuracy and recall is 0.586957	0.586957
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+4818
+Best accuracy and recall is 0.630435	0.630435
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+6425
+Best accuracy and recall is 0.652174	0.652174
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+8031
+Best accuracy and recall is 0.630435	0.630435
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+9637
+Best accuracy and recall is 0.630435	0.630435
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+11244
+Best accuracy and recall is 0.586957	0.586957
+Best paramters is SVC(C=2.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='rbf', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+12850
+Best accuracy and recall is 0.586957	0.586957
+Best paramters is SVC(C=2.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='rbf', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+14456
+Best accuracy and recall is 0.586957	0.586957
+Best paramters is SVC(C=3.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='rbf', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+1606
+Best accuracy and recall is 0.586957	0.586957
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+3212
+Best accuracy and recall is 0.586957	0.586957
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+4818
+Best accuracy and recall is 0.630435	0.630435
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+6425
+Best accuracy and recall is 0.652174	0.652174
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+8031
+Best accuracy and recall is 0.630435	0.630435
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+9637
+Best accuracy and recall is 0.630435	0.630435
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+11244
+Best accuracy and recall is 0.565217	0.565217
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+12850
+Best accuracy and recall is 0.565217	0.565217
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+14456
+Best accuracy and recall is 0.565217	0.565217
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+16063
+Best accuracy and recall is 0.565217	0.565217
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+1606
+Best accuracy and recall is 0.586957	0.586957
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+3212
+Best accuracy and recall is 0.586957	0.586957
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+4818
+Best accuracy and recall is 0.630435	0.630435
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+6425
+Best accuracy and recall is 0.652174	0.652174
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+8031
+Best accuracy and recall is 0.630435	0.630435
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+9637
+Best accuracy and recall is 0.630435	0.630435
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+11244
+Best accuracy and recall is 0.565217	0.565217
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+12850
+Best accuracy and recall is 0.565217	0.565217
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+14456
+Best accuracy and recall is 0.565217	0.565217
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+16063
+Best accuracy and recall is 0.565217	0.565217
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+1606
+Best accuracy and recall is 0.586957	0.586957
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+3212
+Best accuracy and recall is 0.586957	0.586957
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+4818
+Best accuracy and recall is 0.630435	0.630435
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+6425
+Best accuracy and recall is 0.652174	0.652174
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+8031
+Best accuracy and recall is 0.630435	0.630435
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+9637
+Best accuracy and recall is 0.630435	0.630435
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+11244
+Best accuracy and recall is 0.565217	0.565217
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+12850
+Best accuracy and recall is 0.565217	0.565217
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+14456
+Best accuracy and recall is 0.565217	0.565217
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+16063
+Best accuracy and recall is 0.565217	0.565217
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+
+16063
+Best accuracy and recall is 0.565217	0.565217
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)

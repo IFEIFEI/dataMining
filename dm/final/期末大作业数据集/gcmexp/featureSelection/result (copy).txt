@@ -1,0 +1,691 @@
+(144, 16063) (144,) (46, 16063) (46,)
+
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$GCM$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+######################SVMSVC######################
+
+========================================================
+SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+0.586956521739
+0.586956521739 0.586956521739 0.1
+             precision    recall  f1-score   support
+
+    Bladder       0.00      0.00      0.00         3
+     Breast       0.00      0.00      0.00         3
+        CNS       1.00      1.00      1.00         4
+ Colorectal       0.50      1.00      0.67         3
+   Leukemia       1.00      0.83      0.91         6
+       Lung       1.00      0.33      0.50         3
+   Lymphoma       0.71      0.83      0.77         6
+   Melanoma       0.50      1.00      0.67         2
+Mesothelioma       0.75      1.00      0.86         3
+      Ovary       0.40      0.67      0.50         3
+   Pancreas       1.00      0.33      0.50         3
+   Prostate       0.00      0.00      0.00         2
+      Renal       0.00      0.00      0.00         3
+     Uterus       0.20      0.50      0.29         2
+
+avg / total       0.58      0.59      0.54        46
+
+
+========================================================
+
+========================================================
+SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='rbf', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+0.521739130435
+0.521739130435 0.521739130435 0.1
+             precision    recall  f1-score   support
+
+    Bladder       0.50      0.33      0.40         3
+     Breast       0.08      0.33      0.13         3
+        CNS       1.00      0.75      0.86         4
+ Colorectal       0.67      0.67      0.67         3
+   Leukemia       0.62      0.83      0.71         6
+       Lung       1.00      0.33      0.50         3
+   Lymphoma       0.83      0.83      0.83         6
+   Melanoma       1.00      0.50      0.67         2
+Mesothelioma       1.00      1.00      1.00         3
+      Ovary       0.50      0.67      0.57         3
+   Pancreas       0.00      0.00      0.00         3
+   Prostate       0.00      0.00      0.00         2
+      Renal       0.00      0.00      0.00         3
+     Uterus       0.00      0.00      0.00         2
+
+avg / total       0.57      0.52      0.52        46
+
+
+========================================================
+
+ Get result
+Best accuracy is 0.586957
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+######################SVMSVC######################
+
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$GCM$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+######################SVMSVC######################
+
+========================================================
+SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+0.586956521739
+0.586956521739 0.586956521739 0.2
+             precision    recall  f1-score   support
+
+    Bladder       0.00      0.00      0.00         3
+     Breast       0.00      0.00      0.00         3
+        CNS       1.00      1.00      1.00         4
+ Colorectal       0.50      1.00      0.67         3
+   Leukemia       1.00      0.83      0.91         6
+       Lung       0.50      0.33      0.40         3
+   Lymphoma       0.71      0.83      0.77         6
+   Melanoma       0.50      1.00      0.67         2
+Mesothelioma       0.67      0.67      0.67         3
+      Ovary       0.50      0.67      0.57         3
+   Pancreas       1.00      0.33      0.50         3
+   Prostate       0.00      0.00      0.00         2
+      Renal       0.50      0.33      0.40         3
+     Uterus       0.20      0.50      0.29         2
+
+avg / total       0.58      0.59      0.56        46
+
+
+========================================================
+
+========================================================
+SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='rbf', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+0.54347826087
+0.54347826087 0.54347826087 0.2
+             precision    recall  f1-score   support
+
+    Bladder       0.50      0.33      0.40         3
+     Breast       0.09      0.33      0.14         3
+        CNS       1.00      0.75      0.86         4
+ Colorectal       0.75      1.00      0.86         3
+   Leukemia       0.62      0.83      0.71         6
+       Lung       0.50      0.33      0.40         3
+   Lymphoma       0.86      1.00      0.92         6
+   Melanoma       1.00      0.50      0.67         2
+Mesothelioma       1.00      0.67      0.80         3
+      Ovary       0.67      0.67      0.67         3
+   Pancreas       0.00      0.00      0.00         3
+   Prostate       0.00      0.00      0.00         2
+      Renal       0.00      0.00      0.00         3
+     Uterus       0.00      0.00      0.00         2
+
+avg / total       0.55      0.54      0.53        46
+
+
+========================================================
+
+ Get result
+Best accuracy is 0.586957
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+######################SVMSVC######################
+
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$GCM$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+######################SVMSVC######################
+
+========================================================
+SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+0.630434782609
+0.630434782609 0.630434782609 0.3
+             precision    recall  f1-score   support
+
+    Bladder       0.25      0.33      0.29         3
+     Breast       0.00      0.00      0.00         3
+        CNS       1.00      1.00      1.00         4
+ Colorectal       0.60      1.00      0.75         3
+   Leukemia       1.00      0.83      0.91         6
+       Lung       0.50      0.33      0.40         3
+   Lymphoma       0.71      0.83      0.77         6
+   Melanoma       0.67      1.00      0.80         2
+Mesothelioma       1.00      0.67      0.80         3
+      Ovary       0.67      0.67      0.67         3
+   Pancreas       0.50      0.33      0.40         3
+   Prostate       0.00      0.00      0.00         2
+      Renal       0.50      0.33      0.40         3
+     Uterus       0.40      1.00      0.57         2
+
+avg / total       0.62      0.63      0.61        46
+
+
+========================================================
+
+========================================================
+SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='rbf', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+0.54347826087
+0.54347826087 0.54347826087 0.3
+             precision    recall  f1-score   support
+
+    Bladder       0.50      0.33      0.40         3
+     Breast       0.09      0.33      0.14         3
+        CNS       1.00      0.75      0.86         4
+ Colorectal       0.75      1.00      0.86         3
+   Leukemia       0.62      0.83      0.71         6
+       Lung       0.50      0.33      0.40         3
+   Lymphoma       0.86      1.00      0.92         6
+   Melanoma       1.00      0.50      0.67         2
+Mesothelioma       1.00      0.67      0.80         3
+      Ovary       0.67      0.67      0.67         3
+   Pancreas       0.00      0.00      0.00         3
+   Prostate       0.00      0.00      0.00         2
+      Renal       0.00      0.00      0.00         3
+     Uterus       0.00      0.00      0.00         2
+
+avg / total       0.55      0.54      0.53        46
+
+
+========================================================
+
+ Get result
+Best accuracy is 0.630435
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+######################SVMSVC######################
+
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$GCM$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+######################SVMSVC######################
+
+========================================================
+SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+0.652173913043
+0.652173913043 0.652173913043 0.4
+             precision    recall  f1-score   support
+
+    Bladder       0.25      0.33      0.29         3
+     Breast       0.00      0.00      0.00         3
+        CNS       1.00      1.00      1.00         4
+ Colorectal       0.60      1.00      0.75         3
+   Leukemia       1.00      0.83      0.91         6
+       Lung       0.50      0.33      0.40         3
+   Lymphoma       0.75      1.00      0.86         6
+   Melanoma       0.67      1.00      0.80         2
+Mesothelioma       1.00      0.67      0.80         3
+      Ovary       0.67      0.67      0.67         3
+   Pancreas       0.33      0.33      0.33         3
+   Prostate       0.00      0.00      0.00         2
+      Renal       1.00      0.33      0.50         3
+     Uterus       0.40      1.00      0.57         2
+
+avg / total       0.65      0.65      0.62        46
+
+
+========================================================
+
+========================================================
+SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='rbf', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+0.54347826087
+0.54347826087 0.54347826087 0.4
+             precision    recall  f1-score   support
+
+    Bladder       0.50      0.33      0.40         3
+     Breast       0.09      0.33      0.14         3
+        CNS       1.00      0.75      0.86         4
+ Colorectal       0.75      1.00      0.86         3
+   Leukemia       0.62      0.83      0.71         6
+       Lung       0.50      0.33      0.40         3
+   Lymphoma       0.86      1.00      0.92         6
+   Melanoma       1.00      0.50      0.67         2
+Mesothelioma       1.00      0.67      0.80         3
+      Ovary       0.67      0.67      0.67         3
+   Pancreas       0.00      0.00      0.00         3
+   Prostate       0.00      0.00      0.00         2
+      Renal       0.00      0.00      0.00         3
+     Uterus       0.00      0.00      0.00         2
+
+avg / total       0.55      0.54      0.53        46
+
+
+========================================================
+
+ Get result
+Best accuracy is 0.652174
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+######################SVMSVC######################
+
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$GCM$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+######################SVMSVC######################
+
+========================================================
+SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+0.630434782609
+0.630434782609 0.630434782609 0.5
+             precision    recall  f1-score   support
+
+    Bladder       0.00      0.00      0.00         3
+     Breast       0.00      0.00      0.00         3
+        CNS       1.00      1.00      1.00         4
+ Colorectal       0.60      1.00      0.75         3
+   Leukemia       1.00      0.83      0.91         6
+       Lung       1.00      0.33      0.50         3
+   Lymphoma       0.75      1.00      0.86         6
+   Melanoma       0.67      1.00      0.80         2
+Mesothelioma       0.75      1.00      0.86         3
+      Ovary       0.40      0.67      0.50         3
+   Pancreas       1.00      0.33      0.50         3
+   Prostate       0.00      0.00      0.00         2
+      Renal       0.00      0.00      0.00         3
+     Uterus       0.33      1.00      0.50         2
+
+avg / total       0.60      0.63      0.58        46
+
+
+========================================================
+
+========================================================
+SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='rbf', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+0.5
+0.5 0.5 0.5
+             precision    recall  f1-score   support
+
+    Bladder       1.00      0.33      0.50         3
+     Breast       0.07      0.33      0.12         3
+        CNS       0.75      0.75      0.75         4
+ Colorectal       1.00      0.67      0.80         3
+   Leukemia       0.62      0.83      0.71         6
+       Lung       1.00      0.33      0.50         3
+   Lymphoma       0.83      0.83      0.83         6
+   Melanoma       1.00      0.50      0.67         2
+Mesothelioma       1.00      0.67      0.80         3
+      Ovary       0.50      0.67      0.57         3
+   Pancreas       0.00      0.00      0.00         3
+   Prostate       0.00      0.00      0.00         2
+      Renal       0.00      0.00      0.00         3
+     Uterus       0.00      0.00      0.00         2
+
+avg / total       0.60      0.50      0.51        46
+
+
+========================================================
+
+ Get result
+Best accuracy is 0.630435
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+######################SVMSVC######################
+
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$GCM$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+######################SVMSVC######################
+
+========================================================
+SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+0.630434782609
+0.630434782609 0.630434782609 0.6
+             precision    recall  f1-score   support
+
+    Bladder       0.25      0.33      0.29         3
+     Breast       0.00      0.00      0.00         3
+        CNS       1.00      1.00      1.00         4
+ Colorectal       0.60      1.00      0.75         3
+   Leukemia       1.00      0.83      0.91         6
+       Lung       1.00      0.33      0.50         3
+   Lymphoma       0.71      0.83      0.77         6
+   Melanoma       1.00      1.00      1.00         2
+Mesothelioma       0.60      1.00      0.75         3
+      Ovary       0.50      0.67      0.57         3
+   Pancreas       1.00      0.33      0.50         3
+   Prostate       0.00      0.00      0.00         2
+      Renal       0.00      0.00      0.00         3
+     Uterus       0.33      1.00      0.50         2
+
+avg / total       0.63      0.63      0.59        46
+
+
+========================================================
+
+========================================================
+SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='rbf', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+0.521739130435
+0.521739130435 0.521739130435 0.6
+             precision    recall  f1-score   support
+
+    Bladder       1.00      0.33      0.50         3
+     Breast       0.07      0.33      0.12         3
+        CNS       0.80      1.00      0.89         4
+ Colorectal       0.50      0.33      0.40         3
+   Leukemia       0.83      0.83      0.83         6
+       Lung       1.00      0.33      0.50         3
+   Lymphoma       0.83      0.83      0.83         6
+   Melanoma       1.00      0.50      0.67         2
+Mesothelioma       1.00      1.00      1.00         3
+      Ovary       0.50      0.67      0.57         3
+   Pancreas       0.00      0.00      0.00         3
+   Prostate       0.00      0.00      0.00         2
+      Renal       0.00      0.00      0.00         3
+     Uterus       0.00      0.00      0.00         2
+
+avg / total       0.60      0.52      0.53        46
+
+
+========================================================
+
+ Get result
+Best accuracy is 0.630435
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+######################SVMSVC######################
+
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$GCM$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+######################SVMSVC######################
+
+========================================================
+SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+0.565217391304
+0.565217391304 0.565217391304 0.7
+             precision    recall  f1-score   support
+
+    Bladder       0.17      0.33      0.22         3
+     Breast       0.00      0.00      0.00         3
+        CNS       1.00      1.00      1.00         4
+ Colorectal       0.60      1.00      0.75         3
+   Leukemia       1.00      0.83      0.91         6
+       Lung       0.50      0.33      0.40         3
+   Lymphoma       0.67      0.67      0.67         6
+   Melanoma       1.00      0.50      0.67         2
+Mesothelioma       0.75      1.00      0.86         3
+      Ovary       0.50      0.67      0.57         3
+   Pancreas       1.00      0.33      0.50         3
+   Prostate       0.00      0.00      0.00         2
+      Renal       0.00      0.00      0.00         3
+     Uterus       0.20      0.50      0.29         2
+
+avg / total       0.59      0.57      0.55        46
+
+
+========================================================
+
+========================================================
+SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='rbf', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+0.521739130435
+0.521739130435 0.521739130435 0.7
+             precision    recall  f1-score   support
+
+    Bladder       0.50      0.33      0.40         3
+     Breast       0.08      0.33      0.12         3
+        CNS       0.80      1.00      0.89         4
+ Colorectal       0.33      0.33      0.33         3
+   Leukemia       0.83      0.83      0.83         6
+       Lung       1.00      0.33      0.50         3
+   Lymphoma       0.83      0.83      0.83         6
+   Melanoma       1.00      0.50      0.67         2
+Mesothelioma       1.00      1.00      1.00         3
+      Ovary       0.40      0.67      0.50         3
+   Pancreas       0.00      0.00      0.00         3
+   Prostate       0.00      0.00      0.00         2
+      Renal       0.00      0.00      0.00         3
+     Uterus       0.00      0.00      0.00         2
+
+avg / total       0.55      0.52      0.51        46
+
+
+========================================================
+
+ Get result
+Best accuracy is 0.565217
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+######################SVMSVC######################
+
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$GCM$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+######################SVMSVC######################
+
+========================================================
+SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+0.565217391304
+0.565217391304 0.565217391304 0.8
+             precision    recall  f1-score   support
+
+    Bladder       0.17      0.33      0.22         3
+     Breast       0.00      0.00      0.00         3
+        CNS       1.00      1.00      1.00         4
+ Colorectal       0.60      1.00      0.75         3
+   Leukemia       1.00      0.83      0.91         6
+       Lung       0.50      0.33      0.40         3
+   Lymphoma       0.67      0.67      0.67         6
+   Melanoma       1.00      0.50      0.67         2
+Mesothelioma       0.75      1.00      0.86         3
+      Ovary       0.50      0.67      0.57         3
+   Pancreas       0.50      0.33      0.40         3
+   Prostate       0.00      0.00      0.00         2
+      Renal       0.00      0.00      0.00         3
+     Uterus       0.20      0.50      0.29         2
+
+avg / total       0.55      0.57      0.54        46
+
+
+========================================================
+
+========================================================
+SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='rbf', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+0.5
+0.5 0.5 0.8
+             precision    recall  f1-score   support
+
+    Bladder       0.50      0.33      0.40         3
+     Breast       0.07      0.33      0.12         3
+        CNS       0.80      1.00      0.89         4
+ Colorectal       0.25      0.33      0.29         3
+   Leukemia       0.83      0.83      0.83         6
+       Lung       1.00      0.33      0.50         3
+   Lymphoma       0.83      0.83      0.83         6
+   Melanoma       1.00      0.50      0.67         2
+Mesothelioma       1.00      0.67      0.80         3
+      Ovary       0.50      0.67      0.57         3
+   Pancreas       0.00      0.00      0.00         3
+   Prostate       0.00      0.00      0.00         2
+      Renal       0.00      0.00      0.00         3
+     Uterus       0.00      0.00      0.00         2
+
+avg / total       0.55      0.50      0.50        46
+
+
+========================================================
+
+ Get result
+Best accuracy is 0.565217
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+######################SVMSVC######################
+
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$GCM$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+######################SVMSVC######################
+
+========================================================
+SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+0.565217391304
+0.565217391304 0.565217391304 0.9
+             precision    recall  f1-score   support
+
+    Bladder       0.17      0.33      0.22         3
+     Breast       0.00      0.00      0.00         3
+        CNS       1.00      1.00      1.00         4
+ Colorectal       0.60      1.00      0.75         3
+   Leukemia       1.00      0.83      0.91         6
+       Lung       0.50      0.33      0.40         3
+   Lymphoma       0.67      0.67      0.67         6
+   Melanoma       1.00      0.50      0.67         2
+Mesothelioma       0.75      1.00      0.86         3
+      Ovary       0.50      0.67      0.57         3
+   Pancreas       0.50      0.33      0.40         3
+   Prostate       0.00      0.00      0.00         2
+      Renal       0.00      0.00      0.00         3
+     Uterus       0.20      0.50      0.29         2
+
+avg / total       0.55      0.57      0.54        46
+
+
+========================================================
+
+========================================================
+SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='rbf', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+0.54347826087
+0.54347826087 0.54347826087 0.9
+             precision    recall  f1-score   support
+
+    Bladder       0.50      0.33      0.40         3
+     Breast       0.08      0.33      0.12         3
+        CNS       0.67      1.00      0.80         4
+ Colorectal       1.00      0.33      0.50         3
+   Leukemia       1.00      0.83      0.91         6
+       Lung       1.00      0.33      0.50         3
+   Lymphoma       0.83      0.83      0.83         6
+   Melanoma       1.00      0.50      0.67         2
+Mesothelioma       1.00      1.00      1.00         3
+      Ovary       0.50      0.67      0.57         3
+   Pancreas       1.00      0.33      0.50         3
+   Prostate       0.00      0.00      0.00         2
+      Renal       0.00      0.00      0.00         3
+     Uterus       0.00      0.00      0.00         2
+
+avg / total       0.67      0.54      0.56        46
+
+
+========================================================
+
+ Get result
+Best accuracy is 0.565217
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+######################SVMSVC######################
+
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$GCM$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+######################SVMSVC######################
+
+========================================================
+SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+0.565217391304
+0.565217391304 0.565217391304 1.0
+             precision    recall  f1-score   support
+
+    Bladder       0.17      0.33      0.22         3
+     Breast       0.00      0.00      0.00         3
+        CNS       1.00      1.00      1.00         4
+ Colorectal       0.50      1.00      0.67         3
+   Leukemia       1.00      0.83      0.91         6
+       Lung       0.50      0.33      0.40         3
+   Lymphoma       0.67      0.67      0.67         6
+   Melanoma       1.00      0.50      0.67         2
+Mesothelioma       0.75      1.00      0.86         3
+      Ovary       0.50      0.67      0.57         3
+   Pancreas       0.50      0.33      0.40         3
+   Prostate       0.00      0.00      0.00         2
+      Renal       0.00      0.00      0.00         3
+     Uterus       0.25      0.50      0.33         2
+
+avg / total       0.55      0.57      0.54        46
+
+
+========================================================
+
+========================================================
+SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='rbf', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+0.54347826087
+0.54347826087 0.54347826087 1.0
+             precision    recall  f1-score   support
+
+    Bladder       0.33      0.33      0.33         3
+     Breast       0.08      0.33      0.12         3
+        CNS       0.67      1.00      0.80         4
+ Colorectal       1.00      0.33      0.50         3
+   Leukemia       1.00      0.83      0.91         6
+       Lung       1.00      0.33      0.50         3
+   Lymphoma       0.83      0.83      0.83         6
+   Melanoma       1.00      0.50      0.67         2
+Mesothelioma       1.00      1.00      1.00         3
+      Ovary       0.67      0.67      0.67         3
+   Pancreas       1.00      0.33      0.50         3
+   Prostate       0.00      0.00      0.00         2
+      Renal       0.00      0.00      0.00         3
+     Uterus       0.00      0.00      0.00         2
+
+avg / total       0.67      0.54      0.56        46
+
+
+========================================================
+
+ Get result
+Best accuracy is 0.565217
+Best paramters is SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0, degree=3, gamma=0.0,
+  kernel='linear', max_iter=-1, probability=True, random_state=None,
+  shrinking=True, tol=0.001, verbose=False)
+######################SVMSVC######################
